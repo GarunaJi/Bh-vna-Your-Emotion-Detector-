@@ -23,7 +23,7 @@ This project is an Emotion Detection system that leverages deep learning models 
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/Nipunkhattri/Emotion_detection_deep_learning.git
+   git clone https://github.com/GarunaJi/Bhavna-Your-Emotion-Detector
 
 2. **Navigate to the  Project Directory**
 
